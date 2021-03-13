@@ -1,6 +1,6 @@
 # Comandos utiles
  ## Copiar una linea
- ### Ctrl + shift + (Flecha arriba o abajo)
+ ### Shift + Alt + (Flecha arriba o abajo)
  ![copiar una linea](/assets/linea.gif)
 
  ## Crear una carpeta por la terminal
